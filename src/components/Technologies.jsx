@@ -1,6 +1,6 @@
 import React from "react";
 
-const Tecnologias = () => {
+const Technologies = () => {
   return (
     <section className="text-emerald-200	 body-font bg-slate-900		 py-12">
       <div className="container mx-auto">
@@ -138,4 +138,5 @@ const Tecnologias = () => {
   );
 };
 
-export default Tecnologias;
+export default Technologies
+;

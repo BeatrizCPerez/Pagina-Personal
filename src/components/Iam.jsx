@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaChevronDown } from 'react-icons/fa';
 
-const YourComponent = () => {
+const Iam = () => {
   return (
     <section className="relative text-white body-font bg-blue-700">
       <div className="absolute inset-0 bg-cover" style={{ backgroundImage: 'url("../src/assets/programar.jpg")', filter: 'blur(8px)' }}></div>
@@ -31,6 +31,6 @@ const YourComponent = () => {
   );
 };
 
-export default YourComponent;
+export default Iam;
 
 

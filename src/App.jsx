@@ -1,8 +1,8 @@
 import React from "react";
 
-import Quiensoy from "./components/Quiensoy";
-import Tecnologias from "./components/Tecnologias";
-import Trabajos from "./components/Trabajos";
+import Iam from "./components/Iam";
+import Technologies from "./components/Technologies";
+import Jobs from "./components/Jobs";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
@@ -12,9 +12,9 @@ export default function App() {
     <>
       <div>
        <Navbar />
-        <Quiensoy />
-        <Tecnologias />
-        <Trabajos />
+        <Iam />
+        <Technologies />
+        <Jobs />
         <Contact />
         <Footer />
       </div>

@@ -1,6 +1,6 @@
 import React from "react";
 
-const Trabajos = () => {
+const Jobs = () => {
   return (
     <section className="relative bg-slate-400 text-white">
   
@@ -105,4 +105,4 @@ const Trabajos = () => {
   );
 };
 
-export default Trabajos;
+export default Jobs;
